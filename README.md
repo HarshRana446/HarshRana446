@@ -1,4 +1,4 @@
-<img src="https://github.com/HarshRana446/HarshRana446/blob/main/banner.png" alt="Harsh Rana Banner" style="width:100%;"/>
+<img src="C:\Users\Harsh\Pictures\Harsh\banner.png" alt="Harsh Rana Banner" style="width:100%;"/>
 
 <h1 align="center">Hi 👋, I'm Harsh Rana</h1>
 
