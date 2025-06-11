@@ -33,7 +33,7 @@
 
 ---
 
-## 📈 GitHub Stats:
+## 📊 GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HarshRana446&show_icons=true&theme=radical&hide_border=false&count_private=true" height="180"/>
@@ -46,15 +46,21 @@
 
 ---
 
-## 🔥 Activity Graph:
-[![Harsh's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HarshRana446&theme=react-dark&hide_border=false&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 📌 Featured Projects:
 
----
+<p align="center">
+  
+  <a href="https://github.com/HarshRana446/your-repo-name">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HarshRana446&repo=your-repo-name&theme=radical" />
+  </a>
 
-## ✨ Featured Projects:
+  <a href="https://github.com/HarshRana446/your-second-repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HarshRana446&repo=your-second-repo&theme=radical" />
+  </a>
 
-[![Food Delivery Website](https://github-readme-stats.vercel.app/api/pin/?username=HarshRana446&repo=Food-Delivery-Website&theme=radical)](https://github.com/HarshRana446/Food-Delivery-Website)
-[![E-Commerce Backend](https://github-readme-stats.vercel.app/api/pin/?username=HarshRana446&repo=E-Commerce-Backend&theme=radical)](https://github.com/HarshRana446/E-Commerce-Backend)
+</p>
+
+<!-- ⚠️ Replace 'your-repo-name' and 'your-second-repo' with actual repo names -->
 
 ---
 
@@ -77,6 +83,7 @@
 ---
 
 ## ✍️ Random Dev Quote:
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
