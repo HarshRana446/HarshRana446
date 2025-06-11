@@ -1,4 +1,3 @@
-<img src="C:\Users\Harsh\Pictures\Harsh\banner.png" alt="Harsh Rana Banner" style="width:100%;"/>
 
 <h1 align="center">Hi 👋, I'm Harsh Rana</h1>
 
