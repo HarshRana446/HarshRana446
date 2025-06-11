@@ -1,3 +1,5 @@
+![Profile views](https://komarev.com/ghpvc/?username=HarshRana446&color=blueviolet)
+
 # 💫 About Me:
 👋 Hi, I’m Harsh Rana<br>🎓 Student | Passionate Web Developer<br>💻 I work with JavaScript, Java, React, and Node.js<br>🚀 Built projects like E-Commerce backends, food delivery websites, and React apps<br>🌱 Currently sharpening my skills in backend development and modern web technologies<br>✨ Love creating developer tools, web apps, and learning new tech every day<br><br>
 
