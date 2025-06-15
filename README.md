@@ -44,10 +44,10 @@
 
 ---
 
-## 🌐 GitHub Contribution Graph:
+## 📊 Contribution Graph:
 
 <p align="center">
-  <img src="https://github-contribution-graph.ezzy.dev/api?username=HarshRana446&theme=radical&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshRana446&theme=radical&area=true&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
 ---
