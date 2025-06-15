@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=HarshRana446&label=Profile%20Views&color=12B886&icon=5&pretty=true" />
+  <img src="https://komarev.com/ghpvc/?username=HarshRana446&label=Profile%20views&color=blueviolet&style=flat" alt="HarshRana446 Profile Views" />
 </p>
 
 <p align="center">
@@ -42,24 +42,30 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshRana446&layout=compact&theme=radical&hide_border=false" />
 </p>
 
+---
+
+## 🌐 GitHub Contribution Graph:
+
 <p align="center">
-  <img src="https://github-contribution-graph.ez4o.com/api?username=HarshRana446&bg_color=000000&color=00FFCA&line=38BDF8&point=FACC15&area=true&hide_border=true" />
+  <img src="https://github-contribution-graph.ezzy.dev/api?username=HarshRana446&theme=radical&area=true&hide_border=true" />
 </p>
 
 ---
 
-## 🌟 Featured Projects:
+## 🎵 Now Playing on Spotify:
+
+<p align="center">
+  <img src="https://spotify-now-playing-readme.vercel.app/api/spotify" alt="Now Playing on Spotify" width="350" />
+</p>
+
+---
+
+## 📌 Featured Projects:
 
 | Project | Preview | Tech |
 |:-----------------|:-------------|:-----------|
 | [SyncStream](https://github.com/HarshRana446/SyncStream) | ![SyncStream](https://github-readme-stats.vercel.app/api/pin/?username=HarshRana446&repo=SyncStream&theme=radical) | React, Node.js, FastAPI |
 | [Foodie](https://github.com/HarshRana446/Foodie) | ![Foodie](https://github-readme-stats.vercel.app/api/pin/?username=HarshRana446&repo=Foodie&theme=radical) | React, Express |
-
----
-
-## 📝 Latest Articles:
-
-- Coming soon on [Medium](https://medium.com/@ranaharsh669)
 
 ---
 
@@ -72,17 +78,11 @@
 
 ---
 
-## 🎶 Now Playing
+## ✍️ Random Dev Quote:
 
-[![Spotify](https://novatorem-harshrana.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-id)
-
----
-
-## ✨ Fun Facts:
-- 🔥 Coffee addict ☕
-- 🎮 Gamer by night
-- 💡 Productivity enthusiast
-- 🌸 Constantly experimenting with AI, web and backend tools
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
 
 ---
 
@@ -93,22 +93,3 @@
   <a href="mailto:ranaharsh669@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/HarshRana446" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-
----
-
-## ✍️ Random Dev Quote:
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
-
----
-
-## ☕ Support Me:
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/harshrana" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-  </a>
-</p>
-
